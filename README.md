@@ -23,3 +23,6 @@ The goal of this project is to provide a trustless and verifiable system for ind
 - Publicly accessible records for transparency.
 - Prevents duplicate course entries for a single user.
 
+## Contract address:
+0x0472eeb3A1a2DDb33D643989FB3aA30c603cC9bd 
+![image](https://github.com/user-attachments/assets/91286aaf-9ce0-45b1-8bfe-b1554dd64ce6)
