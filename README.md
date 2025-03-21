@@ -26,3 +26,7 @@ The goal of this project is to provide a trustless and verifiable system for ind
 ## Contract address:
 0x0472eeb3A1a2DDb33D643989FB3aA30c603cC9bd 
 ![image](https://github.com/user-attachments/assets/91286aaf-9ce0-45b1-8bfe-b1554dd64ce6)
+
+
+## Frontend
+![image](https://github.com/user-attachments/assets/4cc70b19-8dd4-43b9-bdda-7da668aec242)
